@@ -28,6 +28,6 @@ public class AboutMeTest {
 		myfrd.myGrade = 3.5000;
 		myfrd.sex = 'M';
 		myfrd.usCitizen = true;
-		myfrd.aboutMe(); // method initialized //preparation
+		myfrd.aboutMe(); // method initialized
 	}
 }
